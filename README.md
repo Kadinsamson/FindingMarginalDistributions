@@ -60,7 +60,7 @@ print("The coefficient of Correlation is  %0.4f"%r)
 
 
 # Output :
-![image](![e3](https://user-images.githubusercontent.com/94525955/195509063-126e6290-8b89-493f-a2d8-071eeac3000d.png)
+![e3](https://user-images.githubusercontent.com/94525955/195509063-126e6290-8b89-493f-a2d8-071eeac3000d.png)
 
 
 # Results :
